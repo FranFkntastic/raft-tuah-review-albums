@@ -1,0 +1,56 @@
+{
+  "latest": [
+    {
+      "slug": "transition-main-straight-v1",
+      "title": "Transition — Main Straight v1",
+      "status": "LATEST SKELETON",
+      "note": "Current active transition prototype. Functional grammar skeleton; not accepted production art."
+    },
+    {
+      "slug": "transition-main-corner-v1",
+      "title": "Transition — Main Corner v1",
+      "status": "LATEST SKELETON",
+      "note": "Current active transition prototype. Functional grammar skeleton; not accepted production art."
+    },
+    {
+      "slug": "transition-work-landing-v1",
+      "title": "Transition — Work Landing v1",
+      "status": "LATEST SKELETON",
+      "note": "Current active work-landing prototype. Architectural redesign is still required."
+    },
+    {
+      "slug": "transition-ramp-up-v1",
+      "title": "Transition — Ramp Up v1",
+      "status": "LATEST SKELETON",
+      "note": "Current elevation-transition and path-clearance prototype."
+    },
+    {
+      "slug": "transition-boat-well-v1",
+      "title": "Transition — Boat Well v1",
+      "status": "LATEST SKELETON",
+      "note": "Current working-water court and connector prototype."
+    }
+  ],
+  "rejected": [
+    {
+      "slug": "blockout-rejected",
+      "title": "Rejected Monostructure — 13-Angle Review",
+      "status": "REJECTED",
+      "note": "Rejected production geometry. Retained only as pipeline and comparison evidence."
+    },
+    {
+      "slug": "assembled-seed-12345-v1",
+      "title": "Rejected Recursive Grammar — Seed 12345",
+      "status": "REJECTED GRAMMAR",
+      "note": "The self-recursive pool graph was rejected after adversarial review. This is not the current v2 grammar."
+    }
+  ],
+  "reference": [
+    {
+      "slug": "architecture-references",
+      "title": "Fishing Village Architecture References",
+      "status": "REFERENCE",
+      "note": "Real-world massing, waterline, support and work-infrastructure references."
+    }
+  ]
+}

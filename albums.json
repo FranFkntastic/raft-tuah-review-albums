@@ -1,10 +1,10 @@
 {
   "latest": [
     {
-      "slug": "transition-main-straight-v2",
-      "title": "Transition — Main Straight v2",
-      "status": "LATEST ITERATION",
-      "note": "Active iteration with asymmetrical passing/mooring pocket, repaired deck patches, recovery stair and reduced lighting repetition."
+      "slug": "transition-main-straight-v3",
+      "title": "Transition — Main Straight v3",
+      "status": "ACCEPTABLE PROPOSAL",
+      "note": "First acceptable main-route proposal with attached pocket, guarded recovery, finalized seams and seabed-reaching supports."
     },
     {
       "slug": "transition-main-corner-v1",
@@ -32,6 +32,12 @@
     }
   ],
   "rejected": [
+    {
+      "slug": "transition-main-straight-v2",
+      "title": "Superseded Transition — Main Straight v2",
+      "status": "SUPERSEDED",
+      "note": "Replaced by v3 after review exposed detached lighting, visible markers and insufficient foundation evidence."
+    },
     {
       "slug": "transition-main-straight-v1",
       "title": "Superseded Transition — Main Straight v1",

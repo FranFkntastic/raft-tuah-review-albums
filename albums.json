@@ -1,10 +1,10 @@
 {
   "latest": [
     {
-      "slug": "transition-main-straight-v1",
-      "title": "Transition — Main Straight v1",
-      "status": "LATEST SKELETON",
-      "note": "Current active transition prototype. Functional grammar skeleton; not accepted production art."
+      "slug": "transition-main-straight-v2",
+      "title": "Transition — Main Straight v2",
+      "status": "LATEST ITERATION",
+      "note": "Active iteration with asymmetrical passing/mooring pocket, repaired deck patches, recovery stair and reduced lighting repetition."
     },
     {
       "slug": "transition-main-corner-v1",
@@ -32,6 +32,12 @@
     }
   ],
   "rejected": [
+    {
+      "slug": "transition-main-straight-v1",
+      "title": "Superseded Transition — Main Straight v1",
+      "status": "SUPERSEDED",
+      "note": "Replaced by Main Straight v2 after all-angle review exposed its strip-like silhouette and mechanical repetition."
+    },
     {
       "slug": "blockout-rejected",
       "title": "Rejected Monostructure — 13-Angle Review",

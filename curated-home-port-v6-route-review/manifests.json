@@ -1,0 +1,1254 @@
+{
+  "cinematic": {
+    "album": "curated-home-port-v6",
+    "structure_checksum": "8f1cb4d4205fb6c3f5dcfe24ba27bd7bca3a5c8389bf670b202277a94c558e10",
+    "routes_file": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\local-test-server\\home-port-routes.json",
+    "captured_utc": "2026-08-30T17:16:42.711770+00:00",
+    "client_pid": 57632,
+    "framebuffer": {
+      "width": 1920,
+      "height": 1027,
+      "screen_width": 1920,
+      "screen_height": 1027,
+      "gui_width": 640,
+      "gui_height": 343,
+      "gui_scale": 3.0,
+      "fullscreen": false,
+      "active": false
+    },
+    "scenes": [
+      {
+        "id": "01-open-sea-arrival",
+        "mode": "boat_camera",
+        "started_utc": "2026-08-30T17:12:29.190672+00:00",
+        "frames": 96,
+        "unique_frames": 96,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\01-open-sea-arrival\\01-open-sea-arrival.mp4",
+        "video_sha256": "632b4f61baf7c1de85ff39d1b20b9ed98a003245d0b3564ff2bb4a207b00fecf",
+        "video_bytes": 8485300,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\01-open-sea-arrival\\keyframes\\00-distant-skyline.png",
+            "sha256": "94c082e76750c6d93393a6c1bf584c24a3d30bcecc22584b56969f181b65f1e6"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\01-open-sea-arrival\\keyframes\\01-canal-mouth.png",
+            "sha256": "fc07e374ce196418950a9f70d6c4132b63240e4691ef2f7506a70a34fdf1ffad"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "distant-skyline",
+            "pos": [
+              8380,
+              64.0,
+              4048
+            ],
+            "yaw": 90,
+            "pitch": 2,
+            "seconds": 2.0
+          },
+          {
+            "name": "canal-mouth",
+            "pos": [
+              8326,
+              64.0,
+              4048
+            ],
+            "yaw": 90,
+            "pitch": 1,
+            "seconds": 12.0
+          }
+        ]
+      },
+      {
+        "id": "02-canal-to-basin",
+        "mode": "boat_camera",
+        "started_utc": "2026-08-30T17:12:48.730101+00:00",
+        "frames": 144,
+        "unique_frames": 144,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\02-canal-to-basin\\02-canal-to-basin.mp4",
+        "video_sha256": "4328a1b68ee2cc0b9e743953770a9ab2995836ed8f808b67c019bcdc993dde3e",
+        "video_bytes": 19103985,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\02-canal-to-basin\\keyframes\\00-canal-entry.png",
+            "sha256": "b2dd3f18163d34fb6cc13b8ed052b0872626b387a3a0ecc2b4391a3b455c5957"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\02-canal-to-basin\\keyframes\\01-bridge-underside.png",
+            "sha256": "9de484e7a5fd5d590f159611034571ac5a04f6a696f5be31045f768984fb7c02"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\02-canal-to-basin\\keyframes\\02-basin-reveal.png",
+            "sha256": "76a816234c29683b10bb654dbdbfd72a24929aba97ce38748553555e2b9efdfa"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\02-canal-to-basin\\keyframes\\03-inner-basin.png",
+            "sha256": "232caa30dbc8e7fa1cad08166acd08d63e45c3b9a1ce2bef79aa8aee96418778"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "canal-entry",
+            "pos": [
+              8326,
+              64.0,
+              4048
+            ],
+            "yaw": 90,
+            "pitch": 0,
+            "seconds": 1.5
+          },
+          {
+            "name": "bridge-underside",
+            "pos": [
+              8308,
+              64.0,
+              4048
+            ],
+            "yaw": 90,
+            "pitch": -4,
+            "seconds": 5.0
+          },
+          {
+            "name": "basin-reveal",
+            "pos": [
+              8274,
+              64.0,
+              4048
+            ],
+            "yaw": 90,
+            "pitch": 0,
+            "seconds": 8.0
+          },
+          {
+            "name": "inner-basin",
+            "pos": [
+              8252,
+              64.0,
+              4048
+            ],
+            "yaw": 90,
+            "pitch": 1,
+            "seconds": 5.0
+          }
+        ]
+      },
+      {
+        "id": "03-west-arrival-circuit",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:13:19.430849+00:00",
+        "frames": 104,
+        "unique_frames": 104,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\03-west-arrival-circuit\\03-west-arrival-circuit.mp4",
+        "video_sha256": "9d2e75b4e216a0082bbbc8a2f22ffe7905b8280b459923941f61d4c702609e84",
+        "video_bytes": 13803790,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\03-west-arrival-circuit\\keyframes\\00-arrival-steps.png",
+            "sha256": "7823a333f5474795e02775310e407c87ac4124dc6d93befd9fab540ca91f39ac"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\03-west-arrival-circuit\\keyframes\\01-customs-side.png",
+            "sha256": "607c9394bc6ced387c494b0efb46d182fcc959c585e75f2ac9561e6ea8115bb3"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\03-west-arrival-circuit\\keyframes\\02-basin-reveal-foot.png",
+            "sha256": "f6e1ddf932d9cabdd5123ce703ac8f3fd6bedcca2bc65ca0a756f86773ecc3d7"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\03-west-arrival-circuit\\keyframes\\03-market-turn.png",
+            "sha256": "6cdf261b0e2e4027092af8e74ef69c3e7124b8c7e5e7231e1618e9136457167e"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "arrival-steps",
+            "pos": [
+              8231,
+              66,
+              4050
+            ],
+            "yaw": -90,
+            "pitch": 4,
+            "seconds": 1.5
+          },
+          {
+            "name": "customs-side",
+            "pos": [
+              8231,
+              66,
+              4038
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 4.0
+          },
+          {
+            "name": "basin-reveal-foot",
+            "pos": [
+              8237,
+              66,
+              4034
+            ],
+            "yaw": -30,
+            "pitch": 2,
+            "seconds": 3.0
+          },
+          {
+            "name": "market-turn",
+            "pos": [
+              8231,
+              66,
+              4063
+            ],
+            "yaw": 25,
+            "pitch": 3,
+            "seconds": 6.0
+          }
+        ]
+      },
+      {
+        "id": "04-north-frontage-pass",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:13:38.771171+00:00",
+        "frames": 128,
+        "unique_frames": 127,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\04-north-frontage-pass\\04-north-frontage-pass.mp4",
+        "video_sha256": "a0114a5b354d5c89448fdacae3dd15e3937b1b8e041eab6c1f07fa5e24740d8d",
+        "video_bytes": 13318562,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\04-north-frontage-pass\\keyframes\\00-warehouse-loading.png",
+            "sha256": "bca1dccb364ff6880fa4253c85648560d9dfb29a57126120f67ccc16344477a1"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\04-north-frontage-pass\\keyframes\\01-north-residences.png",
+            "sha256": "65e621f818e973deab7f1fa4d232cdca5f5c720ae1b8485f35be1e2c95d3f87c"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\04-north-frontage-pass\\keyframes\\02-tavern-court.png",
+            "sha256": "ce8a9151e6f751c7669a080da3a4d48acc2e0b3eb2022786d53dbf1bebdc85a6"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\04-north-frontage-pass\\keyframes\\03-north-bridge-landing.png",
+            "sha256": "ee7898fd2ffcf389443b1a6b6189a6a6c73a372adcb37fad279e8c5c3fc6b5cc"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "warehouse-loading",
+            "pos": [
+              8238,
+              66,
+              4034
+            ],
+            "yaw": 0,
+            "pitch": 3,
+            "seconds": 1.5
+          },
+          {
+            "name": "north-residences",
+            "pos": [
+              8270,
+              66,
+              4034
+            ],
+            "yaw": 0,
+            "pitch": 3,
+            "seconds": 7.0
+          },
+          {
+            "name": "tavern-court",
+            "pos": [
+              8294,
+              66,
+              4037
+            ],
+            "yaw": 0,
+            "pitch": 2,
+            "seconds": 5.0
+          },
+          {
+            "name": "north-bridge-landing",
+            "pos": [
+              8308,
+              66,
+              4041
+            ],
+            "yaw": 90,
+            "pitch": 2,
+            "seconds": 4.0
+          }
+        ]
+      },
+      {
+        "id": "05-south-frontage-pass",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:14:01.262915+00:00",
+        "frames": 112,
+        "unique_frames": 112,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\05-south-frontage-pass\\05-south-frontage-pass.mp4",
+        "video_sha256": "c6cd5017ce08b07e65950c9e7c003cb38f6b548aef71b3bd609177e6bcafac16",
+        "video_bytes": 9451215,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\05-south-frontage-pass\\keyframes\\00-market-waterfront.png",
+            "sha256": "0185f744269a13e37284a20f3ef3629d91ba2a99eb91a1e0c62a859a54c7b1c6"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\05-south-frontage-pass\\keyframes\\01-restaurant-front.png",
+            "sha256": "e8fe1131a62811e76a8918123d2379294cb3e1585482739c8798c8c01e0c19af"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\05-south-frontage-pass\\keyframes\\02-fishmonger-landing.png",
+            "sha256": "e952fd570658fb3d7a9f09f3529927180eb0d4e2c0133dfdd7ef809d05e53108"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\05-south-frontage-pass\\keyframes\\03-south-residences.png",
+            "sha256": "8a577c864227f63ebca37dc047f4ac4e736828bc3ed6b1342f9b09ff9b50fbbf"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "market-waterfront",
+            "pos": [
+              8231,
+              66,
+              4063
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 1.5
+          },
+          {
+            "name": "restaurant-front",
+            "pos": [
+              8248,
+              66,
+              4064
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 4.0
+          },
+          {
+            "name": "fishmonger-landing",
+            "pos": [
+              8272,
+              66,
+              4064
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 5.0
+          },
+          {
+            "name": "south-residences",
+            "pos": [
+              8294,
+              66,
+              4064
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 5.0
+          }
+        ]
+      },
+      {
+        "id": "06-mercato-vecchio",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:14:21.750894+00:00",
+        "frames": 152,
+        "unique_frames": 152,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\06-mercato-vecchio\\06-mercato-vecchio.mp4",
+        "video_sha256": "ac812a81d0fc63ab900d7731555dc310f2aaff775ae58a3b1ce55285b7aab2bc",
+        "video_bytes": 19242366,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\06-mercato-vecchio\\keyframes\\00-market-threshold.png",
+            "sha256": "61c12540d99bd2b8a3f3bd9875fb4344ba6c045aec5df678d228d68be6a1a2f9"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\06-mercato-vecchio\\keyframes\\01-exchange-aisle.png",
+            "sha256": "471df327f44ce0955d198637de3f9aaefe0807ea9f33a55f8072890322e4d702"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\06-mercato-vecchio\\keyframes\\02-east-stall-row.png",
+            "sha256": "3e9230b6cf0141ce928285a7f63fdfcb9361a409d12159b85451bf05c643ecdf"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\06-mercato-vecchio\\keyframes\\03-south-market-exit.png",
+            "sha256": "9d49b51e7fe6f36757f7f3ffdeacf5414396be5faa6fad2c41997bd27c2fa07f"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\06-mercato-vecchio\\keyframes\\04-waterfront-return.png",
+            "sha256": "4815483c00ba3b86a5f906d7da2937c86128293b16c3713403246a76f2d6db76"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "market-threshold",
+            "pos": [
+              8220,
+              66,
+              4066
+            ],
+            "yaw": 0,
+            "pitch": 2,
+            "seconds": 1.5
+          },
+          {
+            "name": "exchange-aisle",
+            "pos": [
+              8220,
+              66,
+              4080
+            ],
+            "yaw": 0,
+            "pitch": 2,
+            "seconds": 5.0
+          },
+          {
+            "name": "east-stall-row",
+            "pos": [
+              8222,
+              66,
+              4085
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 3.0
+          },
+          {
+            "name": "south-market-exit",
+            "pos": [
+              8220,
+              66,
+              4096
+            ],
+            "yaw": 180,
+            "pitch": 2,
+            "seconds": 4.0
+          },
+          {
+            "name": "waterfront-return",
+            "pos": [
+              8230,
+              66,
+              4065
+            ],
+            "yaw": 135,
+            "pitch": 2,
+            "seconds": 7.0
+          }
+        ]
+      },
+      {
+        "id": "07-working-east-end",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:14:48.260376+00:00",
+        "frames": 104,
+        "unique_frames": 104,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\07-working-east-end\\07-working-east-end.mp4",
+        "video_sha256": "1cff551b951d7ab2cf976a4d1b0bb0f931c7b6bc2073219924f3a98bd330e7e2",
+        "video_bytes": 13123238,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\07-working-east-end\\keyframes\\00-net-loft-side.png",
+            "sha256": "af6cfe3330a74d7c08d702e97f315f24961721ddb2667e332b76a59c7bb3b7f8"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\07-working-east-end\\keyframes\\01-bridge-quay-pass.png",
+            "sha256": "9e98fc31d82a9952333c36cb3f845ce7509cdc25feaff6ce0029eef5c397a12c"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\07-working-east-end\\keyframes\\02-repair-berth.png",
+            "sha256": "b5f7e7050949aafacb02bbc436d16cad2e0e1cc1734ffad7be5cda3efe9a3b43"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\07-working-east-end\\keyframes\\03-repair-hoist.png",
+            "sha256": "a8f0862c3e33eb474c6f37a08b07339c9bda19cefad974257c244420533497f6"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "net-loft-side",
+            "pos": [
+              8320,
+              66,
+              4020
+            ],
+            "yaw": 0,
+            "pitch": 3,
+            "seconds": 1.5
+          },
+          {
+            "name": "bridge-quay-pass",
+            "pos": [
+              8308,
+              66,
+              4041
+            ],
+            "yaw": 90,
+            "pitch": 2,
+            "seconds": 4.0
+          },
+          {
+            "name": "repair-berth",
+            "pos": [
+              8318,
+              66,
+              4056
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 5.0
+          },
+          {
+            "name": "repair-hoist",
+            "pos": [
+              8315,
+              66,
+              4068
+            ],
+            "yaw": -135,
+            "pitch": 6,
+            "seconds": 4.0
+          }
+        ]
+      },
+      {
+        "id": "08-customs-interior",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:15:06.282718+00:00",
+        "frames": 112,
+        "unique_frames": 112,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\08-customs-interior\\08-customs-interior.mp4",
+        "video_sha256": "3169e86a17088d99cc362dd04f488fdfb710ffeb58792cfdf405aafc23f0920e",
+        "video_bytes": 11426787,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\08-customs-interior\\keyframes\\00-customs-waterfront-approach.png",
+            "sha256": "bca4b3a863d9f9933561d36256f05076885870b96e70e73ad063d3e5b388ab01"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\08-customs-interior\\keyframes\\01-customs-threshold.png",
+            "sha256": "ee33d0b5b4da96a6df166c4fe5521e8040be410e0acb3739c9d5a78d1a2672ce"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\08-customs-interior\\keyframes\\02-customs-service-room.png",
+            "sha256": "7c8f8c9e860b6c54c3b283ad4b9c9854cd6b340fae4762a7055fec41743ea029"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\08-customs-interior\\keyframes\\03-customs-side-office.png",
+            "sha256": "dad9ef82e1a02d2aab18a23855c4799ebeee35d5b4785933197063b3cf8a6987"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\08-customs-interior\\keyframes\\04-customs-exit.png",
+            "sha256": "eff7f3ed2de42bf9c5e9725d6427ab06263b456e22f8f5c0d6c7e8c29afff4d6"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "customs-waterfront-approach",
+            "pos": [
+              8232,
+              66,
+              4036
+            ],
+            "yaw": 90,
+            "pitch": 2,
+            "seconds": 1.5
+          },
+          {
+            "name": "customs-threshold",
+            "pos": [
+              8230,
+              66,
+              4036
+            ],
+            "yaw": 90,
+            "pitch": 2,
+            "seconds": 2.0
+          },
+          {
+            "name": "customs-service-room",
+            "pos": [
+              8220,
+              66,
+              4036
+            ],
+            "yaw": 90,
+            "pitch": 2,
+            "seconds": 4.0
+          },
+          {
+            "name": "customs-side-office",
+            "pos": [
+              8214,
+              66,
+              4036
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 3.0
+          },
+          {
+            "name": "customs-exit",
+            "pos": [
+              8231,
+              66,
+              4036
+            ],
+            "yaw": -90,
+            "pitch": 2,
+            "seconds": 5.0
+          }
+        ]
+      },
+      {
+        "id": "09-warehouse-interior",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:15:24.705743+00:00",
+        "frames": 96,
+        "unique_frames": 96,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\09-warehouse-interior\\09-warehouse-interior.mp4",
+        "video_sha256": "503ce519dcd94bb28a50f5c648241adf334f0d034e61ebf427bcaf1479174f95",
+        "video_bytes": 10708573,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\09-warehouse-interior\\keyframes\\00-warehouse-quay-approach.png",
+            "sha256": "bd17a960d756a63947c79155fca1fc0f4565e5229c47634d910c70a0ffea33c7"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\09-warehouse-interior\\keyframes\\01-warehouse-threshold.png",
+            "sha256": "10722dae50889d11b5ac68965252718f126fb75f25616bdd284ce39ba03340e0"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\09-warehouse-interior\\keyframes\\02-warehouse-storage-floor.png",
+            "sha256": "b2d329572a21f85cdb910c80340a6e19e8bc5640c9c2d7ee254c60a031e6ee73"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\09-warehouse-interior\\keyframes\\03-warehouse-side-bay.png",
+            "sha256": "8e99cdfbb2d17bb4ed7e89c72470544638c6a4705ed2ec4b4d2154138e161e56"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\09-warehouse-interior\\keyframes\\04-warehouse-exit.png",
+            "sha256": "d5d1cd6e5da1f81f307fefff7670c655ead8190d8799301ce111b495f109383f"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "warehouse-quay-approach",
+            "pos": [
+              8246,
+              66,
+              4036
+            ],
+            "yaw": 180,
+            "pitch": 2,
+            "seconds": 1.5
+          },
+          {
+            "name": "warehouse-threshold",
+            "pos": [
+              8246,
+              66,
+              4034
+            ],
+            "yaw": 180,
+            "pitch": 2,
+            "seconds": 2.0
+          },
+          {
+            "name": "warehouse-storage-floor",
+            "pos": [
+              8246,
+              66,
+              4030
+            ],
+            "yaw": 180,
+            "pitch": 2,
+            "seconds": 3.0
+          },
+          {
+            "name": "warehouse-side-bay",
+            "pos": [
+              8243,
+              66,
+              4030
+            ],
+            "yaw": 90,
+            "pitch": 3,
+            "seconds": 3.0
+          },
+          {
+            "name": "warehouse-exit",
+            "pos": [
+              8246,
+              66,
+              4035
+            ],
+            "yaw": 0,
+            "pitch": 2,
+            "seconds": 4.0
+          }
+        ]
+      },
+      {
+        "id": "10-tavern-interior",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:15:41.485860+00:00",
+        "frames": 128,
+        "unique_frames": 128,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\10-tavern-interior\\10-tavern-interior.mp4",
+        "video_sha256": "e907df71e3b139390e92947f309eb1b14f3d3b952ad6c171892f67c7c41bd2c3",
+        "video_bytes": 19450707,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\10-tavern-interior\\keyframes\\00-tavern-court-approach.png",
+            "sha256": "861ec24eaa4963f477f647ea85d296d1fb90e7798e82f074d86729ebb1503208"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\10-tavern-interior\\keyframes\\01-tavern-threshold.png",
+            "sha256": "51fcd3a97aad8bdc0b429df1c3f6e8c4eabdf6af29587a97555044a61205cc91"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\10-tavern-interior\\keyframes\\02-tavern-central-hall.png",
+            "sha256": "83edbb24916eaae7c91d8635907dcbd3999351f53b763e378584a9a67a21131a"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\10-tavern-interior\\keyframes\\03-tavern-side-room.png",
+            "sha256": "e911b60f114bc166cff4253f90dd65e7659b19dd6b831a6220f011a4496156b4"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\10-tavern-interior\\keyframes\\04-tavern-court-return.png",
+            "sha256": "48774607913377699eb4fd4f258f2969614da48e033668a3453bb9ea3d619edd"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "tavern-court-approach",
+            "pos": [
+              8301,
+              66,
+              4036
+            ],
+            "yaw": 180,
+            "pitch": 2,
+            "seconds": 1.5
+          },
+          {
+            "name": "tavern-threshold",
+            "pos": [
+              8301,
+              66,
+              4033
+            ],
+            "yaw": 180,
+            "pitch": 2,
+            "seconds": 2.0
+          },
+          {
+            "name": "tavern-central-hall",
+            "pos": [
+              8301,
+              66,
+              4022
+            ],
+            "yaw": 180,
+            "pitch": 2,
+            "seconds": 5.0
+          },
+          {
+            "name": "tavern-side-room",
+            "pos": [
+              8297,
+              66,
+              4022
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 3.0
+          },
+          {
+            "name": "tavern-court-return",
+            "pos": [
+              8301,
+              66,
+              4036
+            ],
+            "yaw": 0,
+            "pitch": 2,
+            "seconds": 6.0
+          }
+        ]
+      },
+      {
+        "id": "11-foundation-transitions",
+        "mode": "spectator",
+        "started_utc": "2026-08-30T17:16:03.196509+00:00",
+        "frames": 216,
+        "unique_frames": 216,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\11-foundation-transitions\\11-foundation-transitions.mp4",
+        "video_sha256": "f121db7a45d09dd4f7ded9e02a0b3d2676f65d20e194e40ff6550253a6dab2ac",
+        "video_bytes": 18238382,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\11-foundation-transitions\\keyframes\\00-customs-masonry-footing.png",
+            "sha256": "00e8a7048d058ecd191f4e44fb7b0d3b87c0c019e1d85bda070908148a2d8ed6"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\11-foundation-transitions\\keyframes\\01-warehouse-masonry-footing.png",
+            "sha256": "19de3832ef238d26cb197b352d2725baca93fd0fb6af9b797d25df593b91bdb5"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\11-foundation-transitions\\keyframes\\02-residential-timber-piles.png",
+            "sha256": "957e2bdfaf1549c859de46d0e61165235b2b74ba6a7dd108e693ecb83fda26b7"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\11-foundation-transitions\\keyframes\\03-market-court-foundation.png",
+            "sha256": "6962e35cc7932f415e985cfe72387ab7de2645317587fedeca8f090546e13a7f"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-routes\\11-foundation-transitions\\keyframes\\04-repair-berth-foundation.png",
+            "sha256": "f6f8530265bc8e8e76f93f48f7dcbf25e93d2290f1dd6af2818420fff7abd183"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "customs-masonry-footing",
+            "pos": [
+              8229,
+              60,
+              4038
+            ],
+            "yaw": 90,
+            "pitch": 0,
+            "seconds": 1.5
+          },
+          {
+            "name": "warehouse-masonry-footing",
+            "pos": [
+              8244,
+              60,
+              4034
+            ],
+            "yaw": 180,
+            "pitch": 0,
+            "seconds": 4.0
+          },
+          {
+            "name": "residential-timber-piles",
+            "pos": [
+              8270,
+              60,
+              4034
+            ],
+            "yaw": 180,
+            "pitch": 0,
+            "seconds": 5.0
+          },
+          {
+            "name": "market-court-foundation",
+            "pos": [
+              8220,
+              60,
+              4078
+            ],
+            "yaw": 0,
+            "pitch": 0,
+            "seconds": 8.0
+          },
+          {
+            "name": "repair-berth-foundation",
+            "pos": [
+              8318,
+              60,
+              4064
+            ],
+            "yaw": 180,
+            "pitch": 0,
+            "seconds": 10.0
+          }
+        ]
+      }
+    ],
+    "failures": []
+  },
+  "player": {
+    "album": "curated-home-port-v6-player-eye",
+    "structure_checksum": "8f1cb4d4205fb6c3f5dcfe24ba27bd7bca3a5c8389bf670b202277a94c558e10",
+    "routes_file": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\local-test-server\\home-port-player-routes.json",
+    "captured_utc": "2026-08-30T17:19:29.987455+00:00",
+    "client_pid": 57632,
+    "framebuffer": {
+      "width": 1920,
+      "height": 1027,
+      "screen_width": 1920,
+      "screen_height": 1027,
+      "gui_width": 640,
+      "gui_height": 343,
+      "gui_scale": 3.0,
+      "fullscreen": false,
+      "active": false
+    },
+    "scenes": [
+      {
+        "id": "p01-north-quay-player-pass",
+        "mode": "walk",
+        "started_utc": "2026-08-30T17:17:59.484068+00:00",
+        "frames": 55,
+        "unique_frames": 55,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p01-north-quay-player-pass\\p01-north-quay-player-pass.mp4",
+        "video_sha256": "bdba5a50d321baafe514a486094891af8046e97c07f1da6a275d65a50ad37847",
+        "video_bytes": 12615852,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p01-north-quay-player-pass\\keyframes\\00-warehouse-start.png",
+            "sha256": "040de5b2bcd25d27f0e1ae17ea6f11d3b0fea669ea0c05ab52c2f2404e3c793b"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p01-north-quay-player-pass\\keyframes\\01-north-residences-player-eye.png",
+            "sha256": "1f6d0d334036f6e3beac1afa50d11a0c6e78e85e81f1520283024cf2505b62fb"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p01-north-quay-player-pass\\keyframes\\02-tavern-court-player-eye.png",
+            "sha256": "366542c83eec7cc0fe932afad142674463f052627934fca9d5bb1e0aa672a211"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "warehouse-start",
+            "pos": [
+              8234.5,
+              65,
+              4035.5
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 1.5
+          },
+          {
+            "name": "north-residences-player-eye",
+            "pos": [
+              8270.5,
+              65,
+              4035.5
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 14.0,
+            "move": "forward"
+          },
+          {
+            "name": "tavern-court-player-eye",
+            "pos": [
+              8304.5,
+              65,
+              4035.5
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 14.0,
+            "move": "forward"
+          }
+        ],
+        "physical_summary": {
+          "samples": 55,
+          "min_y": 65.0,
+          "max_y": 65.0,
+          "start": {
+            "x": 8234.5,
+            "y": 65.0,
+            "z": 4035.5
+          },
+          "end": {
+            "x": 8302.879826854058,
+            "y": 65.0,
+            "z": 4035.5
+          }
+        }
+      },
+      {
+        "id": "p02-south-quay-player-pass",
+        "mode": "walk",
+        "started_utc": "2026-08-30T17:18:19.072649+00:00",
+        "frames": 53,
+        "unique_frames": 53,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p02-south-quay-player-pass\\p02-south-quay-player-pass.mp4",
+        "video_sha256": "412b69f028d822757827db605132ac0129f9b02142e6eaefe3ae0616daf3b98f",
+        "video_bytes": 10744970,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p02-south-quay-player-pass\\keyframes\\00-market-waterfront-start.png",
+            "sha256": "da01b3a4ceaae024600700bb78462043f342077d80b5946e8f7f7e99d5d21f95"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p02-south-quay-player-pass\\keyframes\\01-fishmonger-player-eye.png",
+            "sha256": "598bd27a42548852cbb7631c993d989869be79dc77703121f097e03ae41194bb"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p02-south-quay-player-pass\\keyframes\\02-south-residences-player-eye.png",
+            "sha256": "383ed542d59193bccb4a1997db38288a5dcccf6502a624be3ecd6d57084899fe"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "market-waterfront-start",
+            "pos": [
+              8234.5,
+              65,
+              4064.5
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 1.5
+          },
+          {
+            "name": "fishmonger-player-eye",
+            "pos": [
+              8272.5,
+              65,
+              4064.5
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 14.0,
+            "move": "forward"
+          },
+          {
+            "name": "south-residences-player-eye",
+            "pos": [
+              8300.5,
+              65,
+              4064.5
+            ],
+            "yaw": -90,
+            "pitch": 3,
+            "seconds": 12.0,
+            "move": "forward"
+          }
+        ],
+        "physical_summary": {
+          "samples": 53,
+          "min_y": 65.0,
+          "max_y": 65.0,
+          "start": {
+            "x": 8234.598000003367,
+            "y": 65.0,
+            "z": 4064.5
+          },
+          "end": {
+            "x": 8298.562645485888,
+            "y": 65.0,
+            "z": 4064.5
+          }
+        }
+      },
+      {
+        "id": "p04-market-player-walkthrough",
+        "mode": "walk",
+        "started_utc": "2026-08-30T17:18:50.186914+00:00",
+        "frames": 44,
+        "unique_frames": 44,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p04-market-player-walkthrough\\p04-market-player-walkthrough.mp4",
+        "video_sha256": "bf2164a8fe29d30ba193c2a3c29337cb6171923bddfb3e3f7e167bfb4558382b",
+        "video_bytes": 8733213,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p04-market-player-walkthrough\\keyframes\\00-market-north-entry.png",
+            "sha256": "6d275de9b91fd20fe0340637239165cb96911c72323c635272e5cb0f4f2c6880"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p04-market-player-walkthrough\\keyframes\\01-market-central-aisle.png",
+            "sha256": "7a5dd4e08edd4498643faced4f4ef17658e21b0d0fd8a58e4e68ff5a5e40efed"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p04-market-player-walkthrough\\keyframes\\02-market-south-turn.png",
+            "sha256": "cc58eb23b67b2a0896c23d137776460e7d6f1c55220fefb01834affc69eaeaa8"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p04-market-player-walkthrough\\keyframes\\03-market-north-return.png",
+            "sha256": "7340f71b7430751b82dc5aed6d28e4e6abb5a1720839c728c87f220804520a00"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "market-north-entry",
+            "pos": [
+              8220.5,
+              65,
+              4066.5
+            ],
+            "yaw": 0,
+            "pitch": 3,
+            "seconds": 1.5
+          },
+          {
+            "name": "market-central-aisle",
+            "pos": [
+              8220.5,
+              65,
+              4082.5
+            ],
+            "yaw": 0,
+            "pitch": 3,
+            "seconds": 10.0,
+            "move": "forward"
+          },
+          {
+            "name": "market-south-turn",
+            "pos": [
+              8220.5,
+              65,
+              4094.5
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 8.0,
+            "move": "forward"
+          },
+          {
+            "name": "market-north-return",
+            "pos": [
+              8220.5,
+              65,
+              4066.5
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 14.0,
+            "move": "forward"
+          }
+        ],
+        "physical_summary": {
+          "samples": 44,
+          "min_y": 65.0,
+          "max_y": 65.0,
+          "start": {
+            "x": 8220.5,
+            "y": 65.0,
+            "z": 4066.5
+          },
+          "end": {
+            "x": 8220.5,
+            "y": 65.0,
+            "z": 4068.263104182576
+          }
+        }
+      },
+      {
+        "id": "p07-tavern-player-interior",
+        "mode": "walk",
+        "started_utc": "2026-08-30T17:19:22.364007+00:00",
+        "frames": 22,
+        "unique_frames": 22,
+        "fps": 8.0,
+        "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p07-tavern-player-interior\\p07-tavern-player-interior.mp4",
+        "video_sha256": "433902427b4e9b058e870243e175ee9ec30d8643f2e51ce84d6ac91bf6892736",
+        "video_bytes": 3290208,
+        "keyframes": [
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p07-tavern-player-interior\\keyframes\\00-tavern-player-approach.png",
+            "sha256": "47da5f28dbce2ebf96fe564b209170c7d9bc1e56c2d806b2bd0da5ae8b141b8a"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p07-tavern-player-interior\\keyframes\\01-tavern-player-hall.png",
+            "sha256": "70268aba017e8e6d67022867aee874bbd171c7005eabb69201f4947a71de4857"
+          },
+          {
+            "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v6-player-routes\\p07-tavern-player-interior\\keyframes\\02-tavern-player-return.png",
+            "sha256": "9e8416999d04a5400d905ec2aa6cb654361bd9df62979a842155eabf3462fed1"
+          }
+        ],
+        "waypoints": [
+          {
+            "name": "tavern-player-approach",
+            "pos": [
+              8301.5,
+              65,
+              4036.5
+            ],
+            "yaw": 180,
+            "pitch": 3,
+            "seconds": 1.5
+          },
+          {
+            "name": "tavern-player-hall",
+            "pos": [
+              8301.5,
+              65,
+              4022.5
+            ],
+            "yaw": 0,
+            "pitch": 3,
+            "seconds": 12.0,
+            "move": "forward"
+          },
+          {
+            "name": "tavern-player-return",
+            "pos": [
+              8301.5,
+              65,
+              4035.5
+            ],
+            "yaw": 0,
+            "pitch": 3,
+            "seconds": 12.0,
+            "move": "forward"
+          }
+        ],
+        "physical_summary": {
+          "samples": 22,
+          "min_y": 65.0,
+          "max_y": 65.0,
+          "start": {
+            "x": 8301.5,
+            "y": 65.0,
+            "z": 4036.401999996632
+          },
+          "end": {
+            "x": 8301.5,
+            "y": 65.0,
+            "z": 4033.653845076692
+          }
+        }
+      }
+    ],
+    "failures": [
+      {
+        "id": "p03-bridge-player-crossing",
+        "mode": "walk",
+        "error": "RuntimeError: physical scene p03-bridge-player-crossing did not reach bridge-crown-player-eye: player={'present': True, 'name': 'Frantastique', 'uuid': 'c97ee738-27b5-38ce-9872-82d4365a638d', 'x': 8308.5, 'y': 65.0, 'z': 4040.699999988079, 'yaw': 0.0, 'pitch': 4.0}, target=Point(name='bridge-crown-player-eye', x=8308.5, y=71.0, z=4049.5, yaw=0.0, pitch=3.0, seconds=10.0, move='forward')"
+      },
+      {
+        "id": "p05-customs-player-interior",
+        "mode": "walk",
+        "error": "RuntimeError: physical scene p05-customs-player-interior did not reach customs-player-room: player={'present': True, 'name': 'Frantastique', 'uuid': 'c97ee738-27b5-38ce-9872-82d4365a638d', 'x': 8230.300000011921, 'y': 65.0, 'z': 4036.5, 'yaw': 90.0, 'pitch': 3.0}, target=Point(name='customs-player-room', x=8220.5, y=65.0, z=4036.5, yaw=-90.0, pitch=3.0, seconds=10.0, move='forward')"
+      },
+      {
+        "id": "p06-warehouse-player-interior",
+        "mode": "walk",
+        "error": "RuntimeError: walk scene p06-warehouse-player-interior left expected floor band before warehouse-player-storage: sample={'x': 8246.5, 'y': 63.04439707944361, 'z': 4032.4027516692854}, floor_band=64.25"
+      }
+    ]
+  }
+}

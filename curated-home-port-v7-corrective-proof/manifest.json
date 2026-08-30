@@ -2,7 +2,7 @@
   "album": "curated-home-port-v7-corrective-proof",
   "structure_checksum": "cc69bb2f64e806cbdf16528415daf36ca016e8d5d677d959343eebdb758f2d30",
   "routes_file": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\local-test-server\\home-port-v7-corrective-routes.json",
-  "captured_utc": "2026-08-30T17:45:33.578696+00:00",
+  "captured_utc": "2026-08-30T17:51:30.057900+00:00",
   "client_pid": 57632,
   "framebuffer": {
     "width": 1920,
@@ -19,25 +19,25 @@
     {
       "id": "c01-bridge-survival",
       "mode": "walk",
-      "started_utc": "2026-08-30T17:44:51.801416+00:00",
-      "frames": 16,
-      "unique_frames": 16,
+      "started_utc": "2026-08-30T17:50:45.070054+00:00",
+      "frames": 18,
+      "unique_frames": 18,
       "fps": 8.0,
       "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c01-bridge-survival\\c01-bridge-survival.mp4",
-      "video_sha256": "0cc9bfe8d5d447191346297be7df70c577ffdf82fdecc32208eed09b6361ef83",
-      "video_bytes": 2136848,
+      "video_sha256": "be3ee1802ec70879cdd2cf98741bad08ef3ea738a501a0d24b9dfb811fa36533",
+      "video_bytes": 2514757,
       "keyframes": [
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c01-bridge-survival\\keyframes\\00-north-stair-foot.png",
-          "sha256": "27245f445b8911e4f9107cc0c0de8a11e880aa61461c71d998bc5641b8b141f6"
+          "sha256": "9db8cdb5492561fc8ef7e6d41b5eb9a69c6af52a0707de910fc37a5116a65baa"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c01-bridge-survival\\keyframes\\01-stair-crown.png",
-          "sha256": "3a38a99e851e78c5eff69851b54daf4987af1dbababcfee4132fbfa7747f2e36"
+          "sha256": "fb74337fd494d1528baec69e01d6c78fc7b0917edad3c78a891c4ca9161668c4"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c01-bridge-survival\\keyframes\\02-south-stair-foot.png",
-          "sha256": "73055c64419ecead648e2fa09439cf9444be9a18a94ef0b5e53b83057964634d"
+          "sha256": "4b99610c3c98bc5f77db93e9715a1fff490c716e343ebb60b6baa97ad6842e16"
         }
       ],
       "waypoints": [
@@ -69,7 +69,7 @@
           "pos": [
             8708.5,
             65,
-            4058.5
+            4059.5
           ],
           "yaw": 0,
           "pitch": 3,
@@ -78,7 +78,7 @@
         }
       ],
       "physical_summary": {
-        "samples": 16,
+        "samples": 18,
         "min_y": 65.0,
         "max_y": 71.0,
         "start": {
@@ -88,33 +88,33 @@
         },
         "end": {
           "x": 8708.5,
-          "y": 67.23152379758702,
-          "z": 4056.713051304102
+          "y": 65.0,
+          "z": 4058.89950253893
         }
       }
     },
     {
       "id": "c02-customs-survival",
       "mode": "walk",
-      "started_utc": "2026-08-30T17:44:59.329291+00:00",
-      "frames": 18,
-      "unique_frames": 18,
+      "started_utc": "2026-08-30T17:50:53.212779+00:00",
+      "frames": 24,
+      "unique_frames": 24,
       "fps": 8.0,
       "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c02-customs-survival\\c02-customs-survival.mp4",
-      "video_sha256": "225ae0bd7d01dde18b15f948087409a44a06008c59b90140d4ed398a46d8bfc8",
-      "video_bytes": 2379381,
+      "video_sha256": "cc6d3e8ec963ec4b16605c7397a3e62ca0a2a0987b88a8d967503d611292077b",
+      "video_bytes": 3275477,
       "keyframes": [
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c02-customs-survival\\keyframes\\00-customs-threshold-before.png",
-          "sha256": "249347db08c975513d02dea0ec99211047a911bae4490e4bf508f369693386c9"
+          "sha256": "417a9ed3bcb49b78a06f54341c36636cd943f5a7748071c61754030f72cc39c0"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c02-customs-survival\\keyframes\\01-customs-service-room.png",
-          "sha256": "6799b90e4f52455f0a5a2238576cc986c8232638f8fba31994c7368a964c20fb"
+          "sha256": "acd7daa06a1e4ad55693d9548dcbf44de695ac5e9e1f32f1a49dc8b988847abb"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c02-customs-survival\\keyframes\\02-customs-threshold-return.png",
-          "sha256": "a6bab291fc88432e30f0eb7c7fd51713bcf46458958fa8cad700d9d55a7c9eb8"
+          "sha256": "e92a677e3a55a1d8a1fb23172e806a24fedc4f01a2a7ce12c38f9aa3920f3339"
         }
       ],
       "waypoints": [
@@ -155,16 +155,16 @@
         }
       ],
       "physical_summary": {
-        "samples": 18,
+        "samples": 24,
         "min_y": 65.0,
         "max_y": 65.0,
         "start": {
-          "x": 8632.5,
+          "x": 8632.401999996633,
           "y": 65.0,
           "z": 4036.5
         },
         "end": {
-          "x": 8629.869704145123,
+          "x": 8631.596576692364,
           "y": 65.0,
           "z": 4036.5
         }
@@ -173,25 +173,25 @@
     {
       "id": "c03-warehouse-survival",
       "mode": "walk",
-      "started_utc": "2026-08-30T17:45:07.153802+00:00",
-      "frames": 8,
-      "unique_frames": 8,
+      "started_utc": "2026-08-30T17:51:02.728630+00:00",
+      "frames": 12,
+      "unique_frames": 12,
       "fps": 8.0,
       "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c03-warehouse-survival\\c03-warehouse-survival.mp4",
-      "video_sha256": "4d927578441e9790f1f526ea4434f44bfb2ce34540959d89aa2fa432c9694304",
-      "video_bytes": 1031942,
+      "video_sha256": "1e89d0eb29fe743605363c51d22d80181371d84dedf2326c537df59bdef5b796",
+      "video_bytes": 1566306,
       "keyframes": [
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c03-warehouse-survival\\keyframes\\00-warehouse-threshold-before.png",
-          "sha256": "e662202201520bbbf9b24e834655eb6bf7fc03331c43cd40ffd0746fb945b121"
+          "sha256": "55ae2a5826586ac72e69633885aa4b20371bef59f3794c4aec42a89a0e1d7cc5"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c03-warehouse-survival\\keyframes\\01-warehouse-storage-floor.png",
-          "sha256": "4529b690a81674fa83c3bb1e82c9b4501da146beb557d816eb7ad27259b2a593"
+          "sha256": "571516044fc2050837668e457764b8cf27a98aed9c787c577106b18c7ed431c6"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c03-warehouse-survival\\keyframes\\02-warehouse-threshold-return.png",
-          "sha256": "fb3cbac26ee22f25498cfadc9ac01d3de5f1dec6268e3d5d923adbe5c67f5109"
+          "sha256": "f35a05021da4b2eb3481a88f31de659cd2d8e608f32f6fbd917ac5c60d0dea34"
         }
       ],
       "waypoints": [
@@ -232,7 +232,7 @@
         }
       ],
       "physical_summary": {
-        "samples": 8,
+        "samples": 12,
         "min_y": 65.0,
         "max_y": 65.0,
         "start": {
@@ -243,32 +243,32 @@
         "end": {
           "x": 8646.5,
           "y": 65.0,
-          "z": 4033.4383197606962
+          "z": 4035.38071766204
         }
       }
     },
     {
       "id": "c04-net-loft-material-change",
       "mode": "spectator",
-      "started_utc": "2026-08-30T17:45:10.939848+00:00",
+      "started_utc": "2026-08-30T17:51:07.616664+00:00",
       "frames": 72,
       "unique_frames": 72,
       "fps": 8.0,
       "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c04-net-loft-material-change\\c04-net-loft-material-change.mp4",
-      "video_sha256": "a17b53735c1f7117bb010fa92c65819deffe6872b827a99fa5b7dc062e49f7c3",
-      "video_bytes": 6882285,
+      "video_sha256": "8b0eb8b7b943f2e954d99fc750295fd73f49b3aea6ad6906b408a49138ab5cce",
+      "video_bytes": 6730934,
       "keyframes": [
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c04-net-loft-material-change\\keyframes\\00-enclosed-loft-north-elevation.png",
-          "sha256": "b27545927db9941a88561f0cbe737d6016db4dae39bf04a7d44220a29405623c"
+          "sha256": "d48d9f3baa7aa0e48b9857cc687357b824837351a87eaa05a58bdba51402bb8d"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c04-net-loft-material-change\\keyframes\\01-loft-threshold-and-racks.png",
-          "sha256": "a08f89a23e8c2a4eecd42b1747fbbfebf123f7e01052ff0f246ccd7e5a1e0f71"
+          "sha256": "4191de2b77f26c512818f8fa63da5ffeb4b1ad4f379044fe0f4c9d36772e02e4"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c04-net-loft-material-change\\keyframes\\02-compact-working-deck.png",
-          "sha256": "809c64ed1abbdb119b0a4e0f2a2ef37ca130caf2c79c13233520422929a3ea43"
+          "sha256": "e7ef36a8c533c123e6fa542aefbe078ceda7337f15dc08f1a1aab4cf14885eff"
         }
       ],
       "waypoints": [
@@ -311,25 +311,25 @@
     {
       "id": "c05-repair-crane-material-change",
       "mode": "spectator",
-      "started_utc": "2026-08-30T17:45:22.966611+00:00",
+      "started_utc": "2026-08-30T17:51:19.619189+00:00",
       "frames": 64,
       "unique_frames": 64,
       "fps": 8.0,
       "video": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c05-repair-crane-material-change\\c05-repair-crane-material-change.mp4",
-      "video_sha256": "53441e1d178757be4397204722a9c1aaa25c6680db43526eb08acfe5bb7b2d2d",
-      "video_bytes": 5294707,
+      "video_sha256": "84bfc7e0d1fa56602c0cf2b4eeeb23b1fa19e33a5abbed6bf0f49b072ad1cf9d",
+      "video_bytes": 5155915,
       "keyframes": [
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c05-repair-crane-material-change\\keyframes\\00-braced-crane-southwest.png",
-          "sha256": "1bf7fc8fd28331b379ef929505fd44b4b6f3db2e768a30b65383dd61c05f4ae8"
+          "sha256": "3d99283bead079aaa0f966205a116730199cd079789b5c8d64c2efea1bb1b7e9"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c05-repair-crane-material-change\\keyframes\\01-working-platform.png",
-          "sha256": "87782dc2dc4dd929d461fa5022300d18d93013063038b9b2b063c2907a42cf44"
+          "sha256": "4a9412c02ae30052f7687bbc97bb94b3eacb61d3c2ec19841652de85e0c9489a"
         },
         {
           "path": "F:\\Everything (HDD)\\Misc\\Gooseworks (Projects)\\Minecraft-Development\\raft-tuah-fork\\test-evidence\\structure-reviews\\curated-home-port-v7-corrective-proof-final\\c05-repair-crane-material-change\\keyframes\\02-localized-lifting-arm.png",
-          "sha256": "20c639c7a0dfe0c485dc610687a67328ce8ca10d2a2e0d6929b11832af875162"
+          "sha256": "2120f91669427349938b78dfd175cf83b345ca4662fc2743890b0c89e10bc1d4"
         }
       ],
       "waypoints": [
